@@ -1,4 +1,4 @@
-const isNumber = (number) => /^\d+$/.test(number); // Risto & Rainar
+const isNumber = (number) => /^\d+$/.test(number); // Risto
 
 console.log("Let's play a a game! Your computer will think of a number and you have to guess it. Easy, right?! First, let's set a few conditions ... ");
 
